@@ -14,4 +14,4 @@ ga: UA-XXXXX-Y
 github: [metadata]
 
 sass:
-  sass_dir: assets/uswds/sass
+  sass_dir: assets/uswds/scss
